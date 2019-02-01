@@ -1,8 +1,5 @@
-"""
-Este problema foi utilizado em 148 Dojo(s).
-
+"""Este problema foi utilizado em 148 Dojo(s).
 Todo número inteiro positivo pode ser representado pelo produto de potências de números primos (os chamados fatores primos).
-
 Por exemplo o número 6 pode ser representado pelo produto do números primos 2 x 3.
 
 Outros exemplos:
